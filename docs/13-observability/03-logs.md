@@ -37,5 +37,5 @@ The Logs section also stores the log search history for future reference.
 <!-- </span> -->
 
 ### Filter Logs 
-You can filter the search results based on both absolute time and relative time frames.
+You can filter the search results based on relative time frames.
 

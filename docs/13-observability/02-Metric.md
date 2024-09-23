@@ -58,7 +58,7 @@ There are three key metrics :
        ![create_app](/assets/observability/merticEnvFilter.png)
 
     ### Filter metric by Time range 
-     You can view metrics for a specific time frame by selecting either absolute time or relative time.
+     You can view metrics for a specific time frame by selecting a relative time range.
 
        ![create_app](/assets/observability/timeFilter.png)
     
