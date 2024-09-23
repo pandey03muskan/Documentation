@@ -1,12 +1,12 @@
 --- 
-title: "Create Apps"
+title: "App with github"
 ---
 
 # Deployments
 
 ## Seamless app deployments
 
-- ## Create Application from Source Code
+- ## Create Application from Source Code (Github)
 
   Your journey to seamless deployments starts here. Just a few steps!
 
@@ -14,7 +14,7 @@ title: "Create Apps"
 
 ![create_app](/assets/create_app/create_app.png)
 
-**2.** Name your application, select workspace and choose your codebase. (Current options only include GitHub)
+**2.** Name your application, select workspace and choose your codebase.
 
 ![add_app_name](/assets/create_app/add_app_name.png)
 

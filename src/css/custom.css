@@ -20,3 +20,17 @@
   --ifm-color-primary-lightest: #ce93d8; /* Light Violet */
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.mediumFont{
+  font-size:1.2rem;
+}
+.smallFont{
+  font-size:0.9rem;
+}
+.mediumMarginTop{
+  margin-top:2rem;
+}
+.importantText{
+  color:rgb(73, 82, 85);
+  font-weight: 500;
+}
