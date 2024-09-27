@@ -18,7 +18,7 @@ To view logs, follow these steps:
 
 1. Select the Observability option from the sidebar.
 2. Choose the Logs tab from the sub-options under Observability.
-3. Here, you can search by attributes and filter based on both absolute time ranges and relative time frames.
+3. Here, you can search by attributes and filter based on relative time frames.
 
        ![create_app](/assets/observability/logs.png)
 
@@ -27,12 +27,17 @@ To view logs, follow these steps:
 
 ### Search for Logs 
 <!-- <span className="smallFont"> -->
-To search the logs, you can use keywords and filter based on the following attributes. You can also combine these attributes for more specific searches:
+You can search the observability logs using both keywords and attributes. For example:
 
-1. env=`<test/stg/prod>`
-2. appName=`<appName>`
-3. workspaceName=`<workspaceName>`
+**Keyword Searches:** Utilize keywords such as 200, 201, 404, or warning to filter relevant logs.
 
+**Attribute Searches:** Refine your search by specifying attributes, such as:
+
+workspace_name=`<workspace-name>`
+env=`<test/prod/stg>`
+app_name=`<app-name>`
+
+This dual approach enables more precise and effective log analysis.
 The Logs section also stores the log search history for future reference.
 <!-- </span> -->
 

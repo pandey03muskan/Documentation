@@ -24,7 +24,9 @@ In order to create sink, follow these steps :
 
        3. Choose the index and click on "Next." After that, you will see a preview screen. Review the information and submit.
 
+
           _Index : The Splunk platform stores incoming data as events in the selected index._
+
 
        4. Now you will see a "Token Value." Copy the token value and the URL.
 

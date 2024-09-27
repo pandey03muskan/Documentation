@@ -30,9 +30,10 @@ description: ""
 
 
    ## Access the Database tab 
-   To access the database tab, click on the "Database" option in the sidebar. This section displays a list of existing databases with some details. Click on a specific database to view more detailed information.
+   To access the database tab, select the "Database" option in the sidebar. This section provides a comprehensive list of existing databases, including the database name, status, workspace (where the database was created), creation time, and type of database. To view detailed information about a specific database, simply click on its entry.
 
-   <!-- img  -->
+         ![create_app](/assets/Database/Database_access.png)
+
    </span>
 
 
